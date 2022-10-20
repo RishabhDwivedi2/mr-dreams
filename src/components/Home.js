@@ -70,7 +70,7 @@ function Home(props) {
             <button className='section-btn'>Subscribe</button>
             </div>
             </div>
-            <div className="footer-bottom">All Rights Reserved © 2022 MRdreams. Developed & Managed by <a className='rishabh' href="https://www.instagram.com/rishu.253/">Rishabh Dwivedi</a></div>
+            <div className="footer-bottom">All Rights Reserved © 2022 MRdreams. Developed & Managed by <a className='rishabh' href="https://www.linkedin.com/in/rishabh-dwivedi-936676191">Rishabh Dwivedi</a></div>
             </>}
     </div>
   )
