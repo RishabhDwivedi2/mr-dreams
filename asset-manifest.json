@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mr-dreams/static/css/main.d6a04506.css",
+    "main.css": "/mr-dreams/static/css/main.3a9470e7.css",
     "main.js": "/mr-dreams/static/js/main.cacbc042.js",
     "index.html": "/mr-dreams/index.html",
-    "main.d6a04506.css.map": "/mr-dreams/static/css/main.d6a04506.css.map",
+    "main.3a9470e7.css.map": "/mr-dreams/static/css/main.3a9470e7.css.map",
     "main.cacbc042.js.map": "/mr-dreams/static/js/main.cacbc042.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6a04506.css",
+    "static/css/main.3a9470e7.css",
     "static/js/main.cacbc042.js"
   ]
 }
