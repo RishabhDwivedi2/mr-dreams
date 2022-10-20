@@ -1,0 +1,148 @@
+@media screen and (max-width:1500px){
+    .menu-items-after{
+        left: 9pc;
+    }
+    hr{
+        display: none;
+    }
+}
+@media screen and (max-width:1180px){
+    .menu-items-after{
+        left: 5pc;
+        width: 85%;
+    }
+}
+@media screen and (max-width:1050px){
+    .footer{
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height: 100vh;
+    }
+    .section-logo{
+        align-items: center;
+    }
+    .section-1,.section-2{
+        width: 100%;
+        border-bottom: 1px solid white;
+        align-items: center;
+    }
+    .section-3{
+        width: 100%;
+        align-items: center;
+    }
+    .section-ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media screen and (max-width:850px){
+    .temp{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .menu-items-after{
+        left: 3pc;
+        width: 90%;
+        justify-content: center;
+    }
+}
+@media screen and (max-width:650px){
+    .menu-items-after{
+        left: 1pc;
+        width: 94%;
+        top: 6pc;
+    }
+    h2{
+        font-size: 20px;
+    }
+    .section-input,.section-btn{
+        width: 70%;
+      }
+      .locked{
+        height: 80vh;
+      }
+      .locked-gif{
+        width: 400px;
+        height: 400px;
+      }
+}
+@media screen and (max-width:620px){
+    h4{
+        font-size: 40px;
+      }
+    .DYI-detail{
+        font-size: 15px;
+      }   
+    form{
+        height: 40vh;
+        width: 60%;
+        padding: 20px 20px;
+    }
+    .footer{
+        height: 110vh;
+    }
+    
+}
+@media screen and (max-width:460px){
+    h4{
+        font-size: 30px;
+      }
+    .DYI-detail{
+        font-size: 10px;
+      }   
+    form{
+        height: 40vh;
+        width: 90%;
+        padding: 20px 20px;
+    }
+    .section-input,.section-btn{
+        width: 80%;
+      }
+      .locked{
+        height: 80vh;
+      }
+      .locked-gif{
+        width: 300px;
+        height: 300px;
+      }
+}
+@media screen and (max-width:440px){
+    h2{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    p{
+        font-size: 20px;
+    }
+    .temp-right-img{
+        width: 15pc;
+        height: 15pc;
+      }
+}
+@media screen and (max-width:370px){
+    .menu-items-after{
+        left: 0.5pc;
+        width: 95%;
+        top: 6pc;
+    }
+    a{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:305px){
+    h4{
+        font-size: 25px;
+      }
+    .DYI-detail{
+        font-size: 8px;
+      }   
+    form{
+        height: 50vh;
+        width: 95%;
+        padding: 20px 20px;
+    }
+    
+}
