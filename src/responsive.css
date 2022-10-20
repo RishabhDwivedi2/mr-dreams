@@ -17,7 +17,6 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        height: 100vh;
     }
     .section-logo{
         align-items: center;
@@ -77,12 +76,8 @@
         font-size: 15px;
       }   
     form{
-        height: 40vh;
         width: 60%;
         padding: 20px 20px;
-    }
-    .footer{
-        height: 110vh;
     }
     
 }
@@ -94,7 +89,7 @@
         font-size: 10px;
       }   
     form{
-        height: 40vh;
+        
         width: 90%;
         padding: 20px 20px;
     }
@@ -140,7 +135,7 @@
         font-size: 8px;
       }   
     form{
-        height: 50vh;
+        
         width: 95%;
         padding: 20px 20px;
     }
